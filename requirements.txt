@@ -1,4 +1,20 @@
 Both games require Python 3.xx. You can run the .py versions (not uploaded) directly from the Python interpreter, or use the available .ipynb files provided. 
 
+
 The following files are required to be in the same directory as Dodger:
-  
+  Background
+  Baddie
+  Gameover
+  Player
+
+  The goal of dodger is to avoid hitting the enemies for as long as possible. The modified version allows you to change your speed between levels. 
+
+  So long as the files are named correctly and are the right filetype, you could put any appropriate file in its place should you wish to replace the sprites or music.
+
+
+
+For the Slide puzzle, you must place a .jpg photo of MINIMUM dimensions 320x320; anything larger will be cropped out, but anything smaller will break the game (probably).
+
+  The .jpg photo must be in the same directory as the slidepuzzle file and must be named "photo".
+
+  The goal of slide puzzle is to rearrange the puzzle into its original ordered form. 
