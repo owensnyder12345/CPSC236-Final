@@ -1,0 +1,4 @@
+Both games require Python 3.xx. You can run the .py versions (not uploaded) directly from the Python interpreter, or use the available .ipynb files provided. 
+
+The following files are required to be in the same directory as Dodger:
+  
